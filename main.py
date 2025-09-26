@@ -16,7 +16,7 @@ def run_bot(name, url, delay):
 bots = [
     ("jimkar bot", "https://siyamahmmed.shop/jimkarr.php", 3),
     ("talhannc bot", "https://zihadbd.shop/talhannc.php", 2),
-    ("clientbot21", "https://zihadbd.shop/clientbot21.php", 6),
+    ("clientbot21", "https://zihadbd.shop/clientbot21.php", 3),
 ]
 
 # === Start each bot in a separate thread ===
